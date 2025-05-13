@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-#include "sub.h"
+#include "mult.h"
 
 TEST(MultTest, HandlesPositiveInput)
 {
