@@ -1,5 +1,4 @@
 
-
 /*
  * Copyright (C) 2025 Tec de Monterrey
  *
